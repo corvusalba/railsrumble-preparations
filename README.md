@@ -8,21 +8,18 @@ railsrumble-preparations
 Подготовка
 -----------
 
-[Документация по синтаксису markdown](http://daringfireball.net/projects/markdown/syntax)
-
-[CodeAcademy](http://www.codecademy.com/) - курсы Web Fundamentals, JavaScript, jQuery, Ruby, Web Projects, APIs.
-
-[RubyMonk](http://rubymonk.com/) - Ruby.
-
-[Ruby Koans](http://rubykoans.com/) - коаны.
-
-[RailsTutorial](http://railstutorial.ru/chapters/beginning) - рельсы.
-
-[TryGit](http://try.github.io/) - база по гиту.
-
-[ProGit](http://git-scm.com/book) - подробно по гиту.
+- [Документация по синтаксису markdown](http://daringfireball.net/projects/markdown/syntax)
+- [CodeAcademy](http://www.codecademy.com/) - курсы Web Fundamentals, JavaScript, jQuery, Ruby, Web Projects, APIs.
+- [RubyMonk](http://rubymonk.com/) - Ruby.
+- [Ruby Koans](http://rubykoans.com/) - коаны.
+- [RailsTutorial](http://railstutorial.ru/chapters/beginning) - рельсы.
+- [Knockout](http://knockoutjs.com/)
+- [Sass](http://sass-lang.com/)
+- [CoffeeScript](http://coffeescript.org/)
+- [TryGit](http://try.github.io/) - база по гиту.
+- [ProGit](http://git-scm.com/book) - подробно по гиту.
 
 Идеи
 ----
 
-- [прототип BI-системы реального времени](bi.md)
+- [Прототип BI-системы реального времени](bi.md)
