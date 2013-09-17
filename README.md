@@ -4,9 +4,12 @@ railsrumble-preparations
 Репозиторий для хранения документации и подготовки к конкурсу Rails Rumble 2013. До начала конкурса - закрытый, потом перенесем в командный репозитарий.
 
 [Правила конкурса](http://railsrumble.com/)
+
+Подготовка
+-----------
+
 [Документация по синтаксису markdown](http://daringfireball.net/projects/markdown/syntax)
 
-Подготовка:
 [CodeAcademy](http://www.codecademy.com/) - курсы Web Fundamentals, JavaScript, jQuery, Ruby, Web Projects, APIs.
 
 [RubyMonk](http://rubymonk.com/) - Ruby.
@@ -19,6 +22,7 @@ railsrumble-preparations
 
 [ProGit](http://git-scm.com/book) - подробно по гиту.
 
-Ниже прошу вставлять ссылки на файлы с описаниями идей:
+Идеи
+----
 
 - [прототип BI-системы реального времени](bi.md)
