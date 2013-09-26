@@ -23,3 +23,4 @@ railsrumble-preparations
 ----
 
 - [Прототип BI-системы реального времени](bi.md)
+- [Прототип для тестирования игровой модели survival mmo](islands.md)
