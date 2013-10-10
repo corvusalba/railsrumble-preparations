@@ -19,8 +19,20 @@ railsrumble-preparations
 - [TryGit](http://try.github.io/) - база по гиту.
 - [ProGit](http://git-scm.com/book) - подробно по гиту.
 
+Итоговый технологический стек
+-----------------------------
+
+- Ruby
+- Sinatra
+- EventMachine + em-websockets
+- JavaScript/jQuery/knockout.js
+- Twitter Bootstrap
+- GitHub API, [Octokit](https://github.com/octokit/octokit.rb)
+- RabbitMQ
+
 Идеи
 ----
 
+- [Система управления проектами по Scrum на базе Github API](scrumboard.md)
 - [Прототип BI-системы реального времени](bi.md)
 - [Прототип для тестирования игровой модели survival mmo](islands.md)
